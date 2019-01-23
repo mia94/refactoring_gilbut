@@ -13,7 +13,7 @@ public class Main {
 		System.out.println("after2Main()");
 		RobotCommandClass robot = new RobotCommandClass("Andrew");
 		robot.order(RobotCommandClass.COMMAND_WALK);//walk
-		robot.order(RobotCommandClass.COMMAND_STOP);//stop
+		robot.order(RobotCommandClass.COMMAND_STOP);//stop °È±â
 		robot.order(RobotCommandClass.COMMAND_JUMP);//jump 
 
 	}
