@@ -1,0 +1,4 @@
+test@aa.com=kim min su
+jops@apple.com=steve jobs
+bmkim@yi.or.kr=kim bo min
+mia@yi.or.kr=woo seon mi
